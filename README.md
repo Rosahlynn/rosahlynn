@@ -1,4 +1,4 @@
-![Coracao Animado]([(https://www.reactiongifs.com/wp-content/uploads/2013/02/love1.gif)])
+![Coracao Animado]([https://www.reactiongifs.com/wp-content/uploads/2013/02/love1.gif])
 
 <!--
 **Rosahlynn/rosahlynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
